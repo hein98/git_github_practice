@@ -1,3 +1,3 @@
-### This is added feature using feature-branch
+# Hello Git, I am adding this as a feature.
 
-### Welcome to GIT, This is coming from dev-hein
+## added more features
